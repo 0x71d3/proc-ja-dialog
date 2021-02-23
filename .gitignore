@@ -1,0 +1,7 @@
+*.zip
+
+btsjcorpus_ver2020/
+nucc/
+stc-jpn/
+
+*.tsv
