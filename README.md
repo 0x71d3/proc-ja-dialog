@@ -1,4 +1,4 @@
-# Processing Dialogue Corpora in Japanese
+# Processing Dialog Corpora in Japanese
 
 Convert the following corpora into TSV files.
 

@@ -1,7 +1,10 @@
-*.zip
+btsjcorpus_ver2020.zip
+nucc.zip
+twitter_id_str_data.txt.bz2
 
 btsjcorpus_ver2020/
 nucc/
-stc-jpn/
+twitter_id_str_data.txt
 
 *.tsv
+*.txt
